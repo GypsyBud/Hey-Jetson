@@ -75,7 +75,7 @@ ptyprocess==0.5
 pyasn1==0.1.9
 pycosat==0.6.3
 pycparser==2.18
-pycups==1.9.73
+pycups==1.9.74
 pycurl==7.43.0
 Pygments==2.2.0
 pygobject==3.32.2
